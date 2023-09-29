@@ -12,7 +12,7 @@ import ASection from '../Atoms/ASection.vue'
       <p class="text-center my-4">
         Registra't a l'esdeveniment i ens posarem en contacte amb tu per organitzar-ho tot :)
       </p>
-      <a-button class="mx-auto block" :href="eventBriteURL">Registra'm</a-button>
+      <a-button class="mx-auto block" variant="light" :href="eventBriteURL">Registra'm</a-button>
     </a-box>
   </a-section>
 </template>
