@@ -1,7 +1,8 @@
 import { ILogo, IEvent, ISpeaker } from './types'
 
 export const weWillHave = ['Marató de PRs', 'Xerrades i tallers', 'Lightning talks']
-export const eventBriteURL = 'https://www.eventbrite.es/e/entradas-festa-opensource-girona-2023-geekscat-gdg-718595698077'
+export const eventBriteURL =
+  'https://www.eventbrite.es/e/entradas-festa-opensource-girona-2023-geekscat-gdg-718595698077'
 export const startTime = '9:30h'
 export const dueTime = '19h'
 export const eventDate = 'dissabte 21/10/2023'
@@ -24,13 +25,13 @@ export const supporters: ILogo[] = [
     logo: 'ajuntament.png',
     name: 'Ajuntament de Girona',
     web: 'https://web.girona.cat/',
-    title: "Amb el finançament de l'Ajuntament de Girona",
+    title: 'Amb el finançament de:'
   },
   {
     logo: 'assoc-catosfera-logo-2019.png',
     name: 'Catosfera',
-    web: 'https://catosfera.cat/',
-  },  
+    web: 'https://catosfera.cat/'
+  }
 ]
 
 export const sponsors: ILogo[] = [
