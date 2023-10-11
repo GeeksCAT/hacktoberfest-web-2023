@@ -36,7 +36,9 @@ const handlerMenuClick = (option: IMenuOption) => {
   <s-organizers id="organizers" />
   <s-supporters id="supporters" />
   <s-sponsors id="sponsors" />
+  <!--
   <s-call4-sponsors id="call4sponsors" />
+  -->
   <s-contact id="contact" />
   <s-footer />
   <m-go-up />
