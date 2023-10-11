@@ -40,7 +40,7 @@ import ASection from '../Atoms/ASection.vue'
           <tr>
             <td>10:00</td>
             <td>Connectant la teva aplicació amb la IA</td>
-            <td rowspan="2" valign="top">Enginy-era primària</td>
+            <td rowspan="2" valign="top">Taller per infants: Activitat desendollada</td>
             <td rowspan="2" valign="top">Introducció a Kubernetes</td>
             <td rowspan="2" valign="top">Marató PRs</td>
           </tr>
@@ -55,7 +55,7 @@ import ASection from '../Atoms/ASection.vue'
           <tr>
             <td>11:30</td>
             <td rowspan="2" valign="top">Per què és important l'Open Source quan gestionem Bitcoin</td>
-            <td rowspan="2" valign="top">Enginy-era secundària</td>
+            <td rowspan="2" valign="top">Taller per joves: Crea el teu videojoc Arcade amb Micro:bit</td>
             <td rowspan="2" valign="top">Introducció a Kubernetes</td>
             <td rowspan="5" valign="top">Marató PRs</td>
           </tr>
@@ -70,7 +70,7 @@ import ASection from '../Atoms/ASection.vue'
           </tr>
           <tr>
             <td>13:00</td>
-            <td rowspan="2" valign="top">Virtualització amb Proxmox / Sonic PI</td>
+            <td rowspan="2" valign="top">Presentació grups i comunitats locals</td>
             <td rowspan="2" valign="top">AENTEG grup professionals AI</td>
           </tr>
           <tr>
