@@ -112,6 +112,21 @@ export const speakers: ISpeaker[] = [
     bio: []
   },
   {
+    name: 'Cristian Bezerdic Stoica',
+    twitter: 'CristiBezerdic',
+    talk: "El món dels controladors leverless de hardware obert",
+    summary: ['Dins de la informàtica el concepte de Software Open-Source és conegut per tots, però aquest estiu em vaig trobar amb un problema on gràcies al concepte de hardware obert (Dissenys i circuits compartits per a tothom) vaig aconseguir el que volia a la meitat de preu! A més em vaig emportar experiències amb el món dels PCB, soldadures i botons juntament amb comunitats d\'entusiastes que constantment estant "tunejant" i compartint les seves invencions'],
+    bio: [""]
+  },
+  {
+    name: 'Marc Bosch',
+    twitter: 'akakush0',
+    talk: "Per què és important l'Open Source quan gestionem Bitcoin?",
+    summary: ["Ens centrarem en la seguretat que aporta l'OS de cara a l'usuari, i els perills que tenen les altres apps, les quals realment tenen el control sobre els teus diners, i no tu mateix, tal i com hauria de ser gràcies a l'aplicació de la criptografia de clau pública i privada que se'ns presenta en el naixement de Bitcoin."],
+    bio: [""]
+  },
+
+  {
     name: 'Óscar Tienda Beteta',
     twitter: '',
     talk: 'Me suenas: cómo nos conocimos antes de conocernos',
@@ -120,27 +135,63 @@ export const speakers: ISpeaker[] = [
     ],
     bio: []
   },
+
+  {
+    name: 'Andreu Ibañez',
+    twitter: 'nucliweb',
+    talk: 'Presentació programa Beques Google Summer of Code',
+    summary: ['Explicarem què és el programa i exemples de projectes i estudiants.'],
+    bio: ["Mentor del programa de beques d’estiu Google Summer of Code des de fa 11 anys, ha obtingut 63 beques per un import de mig milió de dòlars"]
+  },
+
+  {
+    name: 'Joan Leon',
+    twitter: 'nucliweb',
+    talk: 'Detectant problemes de web performance amb DevTools',
+    summary: [''],
+    bio: ["Google Developer Experts / GDG Girona"]
+  },
+  {
+    name: 'Jordi Planes',
+    talk: 'Models de llenguatge amb IA generativa: visió i experiència',
+    summary: ["Una exploració dels models de llenguatge en IA generativa, combinant una visió general de l'estat actual de la tecnologia amb reflexions personals i experiències pràctiques"],
+    bio: [""]
+  },
+  {
+    name: 'Dani Herrera',
+    talk: "dotnet Blazor Poet's Arena",
+    summary: ["A la primera part de la xerrada mostraré com fer una aplicació web amb dotnet Blazor Server. A la segona part de la xerrada, tot aquell que vulgui, des del seu mòbil, tauleta o portàtil, farà d'usuari de l'aplicació. Blazor és una tecnologia de codi lliure de Microsoft per desenvolupar aplicacions web. Una integració de l'app amb OpenAI farà de jurat i determinarà els guanyadors. T'atreviràs a competir al Blazor Poet's Arena?"],
+    bio: [""]
+  },
   {
     name: 'Victor Carreras',
     twitter: 'vcarreras9',
-    talk: 'Flutter, la nueva era de aplicaciones móviles',
+    talk: 'Taller: Flutter, la nueva era de aplicaciones móviles',
     summary: [
       '¿Has oído hablar de Flutter? Aprende a hacer tu primera aplicación en Flutter y veremos todo lo que hay bajo el capó de esta maravillosa tecnología de Google.'
     ],
-    bio: []
+    bio: ["GDG Burgos"]
   },
   {
     name: 'Carlos Afonso',
     twitter: '',
-    talk: 'Introducción a Kubernetes.',
+    talk: 'Taller: Introducció a Kubernetes',
     summary: [''],
-    bio: []
+    bio: ["Google Developer Experts / Google Cloud"]
   },
   {
-    name: 'Joan Leon',
-    twitter: 'nucliweb',
-    talk: 'Detectant problemes de web performance amb DevTools.',
-    summary: [''],
-    bio: []
-  }
+    name: 'Ruben Guerrero',
+    twitter: 'rubenguerrero',
+    talk: "Taller: Domòtica amb Homeassistant",
+    summary: ["Homeassistant és un software OpenSource que s’està convertint en el estàndar de les cases domòtiques DIY. Hi ha una comunitat molt important darrere seu, cosa que permet integrar una gran varietat de dispositius diferents. Explicarem una mica el funcionament general del software i farem una demo amb diferents dispositius per tal de veure-ho en funcionament real."],
+    bio: [""]
+  },
+  {
+    name: 'Llorenç Pujol Ferriol',
+    twitter: 'llorenspujol',
+    talk: "Taller: Com extreure ofertes de feina a LinkedIn utilitzant Puppeteer i RxJS",
+    summary: ['Aprendrem com extreure ofertes de feina de LinkedIn utilitzant Puppeteer i RxJS. Aprendrem a fer-ho de forma declarativa, modular i escalable utilitzant RxJS en comptes de Promises. Durant la xerrada, també veurem quins són els "common pitfalls" quan fem "web scraping" i com evitar-los'],
+    bio: [""]
+  },
+  
 ]
