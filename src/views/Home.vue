@@ -31,9 +31,7 @@ const handlerMenuClick = (option: IMenuOption) => {
   <s-what-we-will-do-lite id="watWeWillDo" />
   <s-join id="join" />
   <s-diary id="schedule" />
-  <!--
   <s-speakers />
--->
   <s-code-of-conduct id="codeOfConduct" />
   <s-organizers id="organizers" />
   <s-supporters id="supporters" />
