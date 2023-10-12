@@ -171,7 +171,7 @@ export const speakers: ISpeaker[] = [
     summary: [
       "A la primera part de la xerrada mostraré com fer una aplicació web amb dotnet Blazor Server. A la segona part de la xerrada, tot aquell que vulgui, des del seu mòbil, tauleta o portàtil, farà d'usuari de l'aplicació. Blazor és una tecnologia de codi lliure de Microsoft per desenvolupar aplicacions web. Una integració de l'app amb OpenAI farà de jurat i determinarà els guanyadors. T'atreviràs a competir al Blazor Poet's Arena?"
     ],
-    bio: ['']
+    bio: ['dotnet full stack developer a la UdG']
   },
   {
     name: 'Victor Carreras',
