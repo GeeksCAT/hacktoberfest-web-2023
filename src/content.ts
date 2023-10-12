@@ -163,7 +163,7 @@ export const speakers: ISpeaker[] = [
     summary: [
       "Una exploració dels models de llenguatge en IA generativa, combinant una visió general de l'estat actual de la tecnologia amb reflexions personals i experiències pràctiques"
     ],
-    bio: ['']
+    bio: ['De les molècules de la biotecnologia a la bioinformàtica i ara navegant per les aigües profundes de l'IA generativa al món empresarial: simplement un geek de la ciència que no pot deixar de codificar la vida en algorismes 🧬💻🚀']
   },
   {
     name: 'Dani Herrera',
