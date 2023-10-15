@@ -2,6 +2,11 @@
 import { diary } from '../../content'
 import ATitle from '../Atoms/ATitle.vue'
 import ASection from '../Atoms/ASection.vue'
+
+const room1 = 'Auditori'
+const room2 = 'Aula 3'
+const room3 = 'Aula 4'
+const room4 = 'Aula d\'Informàtica'
 </script>
 
 <template>
@@ -19,10 +24,10 @@ import ASection from '../Atoms/ASection.vue'
         <thead>
           <tr style="background: #efefef;">
             <th>Hora</th>
-            <th>Auditori</th>
-            <th>Tallers A</th>
-            <th>Tallers B</th>
-            <th>Open Room</th>
+            <th>{{ room1 }}</th>
+            <th>{{ room2 }}</th>
+            <th>{{ room3 }}</th>
+            <th>{{ room4 }}</th>
           </tr>
         </thead>
         <tbody>
