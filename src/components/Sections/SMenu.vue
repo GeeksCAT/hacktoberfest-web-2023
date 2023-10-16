@@ -5,12 +5,12 @@ const emit = defineEmits(['click'])
 
 const menuOptions: IMenuOption[] = [
   {
-    name: 'Inici',
-    ref: 'begin'
-  },
-  {
     name: 'Agenda',
     ref: 'diary'
+  },
+  {
+    name: 'Ponents',
+    ref: 'speakers'
   },
   {
     name: 'Patrocinadors',
